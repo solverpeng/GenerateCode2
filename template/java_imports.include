@@ -1,0 +1,23 @@
+import java.util.*;
+import org.apache.commons.lang3.StringUtils;
+
+import com.solverpeng.common.base.*;
+import com.solverpeng.common.util.*;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+import cn.org.rapid_framework.util.*;
+import cn.org.rapid_framework.web.util.*;
+import cn.org.rapid_framework.page.*;
+import cn.org.rapid_framework.page.impl.*;
+import com.alibaba.fastjson.JSON;
+import ${basepackage}.model.*;
+import ${basepackage}.dao.*;
+import ${basepackage}.service.*;
+import ${basepackage}.vo.query.*;
+
+/**
+ * <pre>
+ *      author: solverpeng
+ *      blog  : http://solverpeng.com
+ * </pre>
+ */
